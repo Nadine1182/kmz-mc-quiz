@@ -1,0 +1,35 @@
+# KMZ Quiz – Lustiges & Ernstes Multiple‑Choice Quiz
+
+Dies ist ein animiertes Multiple‑Choice‑Quiz für das KMZ‑Onboarding.
+Es enthält:
+
+- Animiertes Intro
+- 12 Fragen (lustig + ernst)
+- Automatische Auswertung
+- Animierten Endscreen
+- Lösungswort „WILLKOMMEN“
+- Restart‑Button
+- KMZ‑Farbschema
+- Voll kompatibel mit GitHub Pages
+
+## 🚀 Online-Version (GitHub Pages)
+
+Sobald GitHub Pages aktiviert ist, erscheint dein Link automatisch so:
+
+https://USERNAME.github.io/kmz-quiz
+
+## 📁 Dateien
+
+- `index.html` – Hauptdatei mit HTML, CSS & JS
+
+## 🛠 Installation
+
+1. Neues GitHub Repository erstellen  
+2. `index.html` hochladen  
+3. Unter **Settings → Pages**  
+   - Branch: `main`
+   - Ordner: `/root`
+4. Speichern  
+5. Nach ca. 30 Sekunden ist das Quiz online verfügbar.
+
+Viel Spaß mit dem KMZ‑Quiz!
